@@ -1,0 +1,1 @@
+This repository contains completed exercises for the TeaLeaf academy object oriented programming book.
